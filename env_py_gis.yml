@@ -1,0 +1,16 @@
+name: py-gis
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.8
+  - pip
+  - jupyterlab
+  - pandas
+  - geos
+  - shapely
+  - geopandas
+  - gdal
+
